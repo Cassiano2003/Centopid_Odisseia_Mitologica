@@ -1,4 +1,4 @@
-# 🕹️ Game Jam Project – 12/09/2025
+# 🕹️ Game Jam Centopid: Odisseia Mitológica – 12/09/2025
 
 Bem-vindo ao repositório oficial do **nosso jogo desenvolvido durante a Game Jam!**
 
@@ -8,8 +8,8 @@ O objetivo é criar um jogo do zero em pouco tempo, explorando criatividade e tr
 
 ## 🎮 Sobre o Projeto
 
-> 🧩 *Tema da Game Jam:* _(adicione aqui o tema oficial)_  
-> 💡 *Estilo de jogo:* _(ex: plataforma, puzzle, etc.)_  
+> 🧩 *Tema da Game Jam:* THE NEXT VERSION IS YOURS
+> 💡 *Estilo de jogo:* Jogo da Cobrinha com Tiro  
 > 🎨 *Engine:* GameMaker Studio 2 / 2024  
 > ⏱️ *Duração:* _(72 horas)_
 
