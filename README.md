@@ -8,9 +8,9 @@ O objetivo é criar um jogo do zero em pouco tempo, explorando criatividade e tr
 
 ## 🎮 Sobre o Projeto
 
-> 🧩 *Tema da Game Jam:* THE NEXT VERSION IS YOURS
-> 💡 *Estilo de jogo:* Jogo da Cobrinha com Tiro  
-> 🎨 *Engine:* GameMaker Studio 2 / 2024  
+> 🧩 *Tema da Game Jam:* _THE NEXT VERSION IS YOURS_  
+> 💡 *Estilo de jogo:* _Jogo da Cobrinha com Tiro_  
+> 🎨 *Engine:* _GameMaker Studio 2 / 2024_  
 > ⏱️ *Duração:* _(72 horas)_
 
 ---
